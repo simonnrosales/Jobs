@@ -30,3 +30,25 @@ header img {
   text-decoration: none;
   color: red;
 }
+
+h2 {
+  text-decoration: none;
+  color: red;
+}
+
+dl dt {
+  margin-left: 2.5rem;
+  text-decoration: none;
+  color: red;
+}
+
+dl dd {
+  margin-left: 2.5rem;
+  text-decoration: none;
+  color: red;
+}
+
+.Hamburgesas {
+  width: 500px;
+  height: 250px;
+}
